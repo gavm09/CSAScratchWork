@@ -1,9 +1,9 @@
 public class NoSunshine {
    public static void main (String[] args){
-   String b = "Ain't no sunshine when she's gone";
-   String c = "Anytime she goes away";
-   String d = "I know, ";
-   String e = d.repeat(5);
+   String b="Ain't no sunshine when she's gone";
+   String c="Anytime she goes away";
+   String d="I know, ";
+   String e=d.repeat(5);
    a(b);
    a("It's not warm when she's away");
    a(b);
